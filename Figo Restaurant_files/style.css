@@ -1,0 +1,56 @@
+.navbar-nav .nav-item {
+  margin-left: 20px !important;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #F8FBF5;
+}
+
+.jumbotron {
+  background-color: #F8FBF5;
+}
+
+.jumbotron h1 {
+  font-size: 72px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.jumbotron button {
+  margin-top: 20px !important;
+  border-radius: 4px;
+  margin-left: 20px;
+  background-color: #8CB560;
+  font-weight: bold;
+  width: 140px;
+  height: 50px;
+}
+
+.jumbotron input {
+  margin-top: 20px !important;
+  border-radius: 5px;
+  width: 351px !important;
+  font-family: 'Poppins';
+  font-size: 18px;
+  background-color: #FFFFFF;
+  height: 50px;
+  border: 0px;
+}
+
+.jumbotron img {
+  margin-top: -41px;
+  width: 500px;
+  height: 500px;
+  margin-right: -40px;
+}
+
+.content {
+  background-color: #d9ffb4;
+}
+/*# sourceMappingURL=style.css.map */
